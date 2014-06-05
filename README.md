@@ -26,6 +26,8 @@ Opauth works well with other PHP applications & frameworks. It is currently supp
 - [Silex](https://github.com/icehero/silex-opauth) (maintained by [icehero](https://github.com/icehero/))
 - [SilverStripe](https://github.com/BetterBrief/silverstripe-opauth) (maintained by [Better Brief](https://github.com/BetterBrief))
 - [Zend Framework 2](https://github.com/lorenzoferrarajr/LfjOpauth) (maintained by [lorenzoferrarajr](https://github.com/lorenzoferrarajr))
+- [Symfony2](https://github.com/damianociarla/DCSOpauthBundle) (maintained by [damianociarla](https://github.com/damianociarla))
+- [Symfony2 integration with FOSUserBundle](https://github.com/damianociarla/DCSOpauthFOSUBBundle) (maintained by [damianociarla](https://github.com/damianociarla))
 - and more to come.
 
 If your PHP framework of choice is not yet listed, you can still use Opauth like you would a normal PHP component (class).
